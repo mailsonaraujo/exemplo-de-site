@@ -1,3 +1,3 @@
-# exemplo-de-site
+# site-responsivo
 Site responsivo em HTML5 e CSS3:<br>
-https://mailsonaraujo.github.io/exemplo-de-site
+URL: https://mailsonaraujo.github.io/site-responsivo
